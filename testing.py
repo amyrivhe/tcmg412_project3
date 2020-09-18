@@ -39,5 +39,4 @@ for line in file:
 file.close()
 
 # output results
-print("requests made in last year:", number_of_requests_last_year, ",",
-      "requests made in entire log period:", number_of_requests_total)
+print("requests made in last year:", number_of_requests_last_year, ",", "requests made in entire log period:", number_of_requests_total)
